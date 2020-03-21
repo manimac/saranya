@@ -1,0 +1,18 @@
+.test3{
+    color:brown;
+    background:red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: lowercase;
+    font-weight: bold;
+    text-decoration: underline;
+    display: block;
+    width: 25%;
+    height: 300px;
+    overflow: scroll;
+    margin-left: 50px;
+    padding: 20px 10px;
+}
+
+div{
+    font-size:20px;
+}
